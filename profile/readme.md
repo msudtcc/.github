@@ -1,21 +1,26 @@
-# Welcome to CENTURION Secured! 🛡️🔒
+# Welcome to The Cybersecurity Center at MSU Denver! 🛡️🔒
 
 ## Mission Statement 🎯
 
-The mission of **CENTURION Secured** is to enhance the cybersecurity posture of small government entities and businesses in the State of Colorado by providing a robust monitoring service.
+The mission of **The Cybersecurity Center at MSU Denver** is to advance the cybersecurity capabilities of Colorado by providing cutting-edge training, education, and community support. We empower students and organizations with the tools and knowledge to tackle real-world cybersecurity challenges.
 
 ## About Us 🌟
 
-Our service is staffed by talented students from institutions within the State of Colorado, who gain invaluable experience working in a Security Operations Center (SOC) as Cybersecurity analysts. They are led, operated, and managed by cybersecurity professionals. 🧑‍💻👩‍💻
+Located at **MSU Denver**, The Cybersecurity Center serves as a hub for learning in the field of cybersecurity. Our programs prepare students for successful careers in the cybersecurity industry while supporting local communities and businesses with tailored cybersecurity solutions. 🧑‍💻👩‍💻
 
 ## Our Goals 🎓
+We strive to:
 
-We aim to bridge the gap between theoretical knowledge and practical application, offering students invaluable hands-on experience and mentorship. At the same time, we ensure the highest standards of digital security for our Community Partners and Customers alike. 🤝💼
+- **Prepare Future Leaders:** Equip students with the skills, experience, and mentorship needed for impactful careers in cybersecurity. 🚀
+- **Support the Community:** Provide high-quality cybersecurity solutions for small rural governments, businesses, and organizations across Colorado. 🤝
+- **Drive Innovation:** Set a benchmark for cybersecurity education and local community impact. 🌍
 
-## What We Do 🛠️
+Through collaboration, education, and innovation, The Cybersecurity Center at MSU Denver:
 
-Through collaboration, education, and dedication, we strive to:
+- Offers **hands-on training opportunities** to bridge the gap between classroom learning and practical application. 🎓
+- Provides **cybersecurity services** to small local organizations, enhancing their digital resilience and destressing their IT staff. 💻
+- Builds a **pipeline of skilled professionals** to address the growing demand for cybersecurity talent in the State of Colorado. 🧑‍💼👩‍💼
 
-- Foster a safer digital environment for small governments and businesses 🏛️💻
-- Set a standard for others across the nation 🌍
-- Better prepare students in the State of Colorado for entry into the cybersecurity workforce 🚀
+## Contact Us 📞
+
+For inquiries, please contact us at **cybersecuritycenter@msudenver.edu**.
